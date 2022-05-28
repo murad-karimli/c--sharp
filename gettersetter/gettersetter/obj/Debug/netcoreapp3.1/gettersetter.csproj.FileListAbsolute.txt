@@ -1,0 +1,14 @@
+C:\Users\Murad\source\repos\gettersetter\gettersetter\bin\Debug\netcoreapp3.1\gettersetter.exe
+C:\Users\Murad\source\repos\gettersetter\gettersetter\bin\Debug\netcoreapp3.1\gettersetter.deps.json
+C:\Users\Murad\source\repos\gettersetter\gettersetter\bin\Debug\netcoreapp3.1\gettersetter.runtimeconfig.json
+C:\Users\Murad\source\repos\gettersetter\gettersetter\bin\Debug\netcoreapp3.1\gettersetter.runtimeconfig.dev.json
+C:\Users\Murad\source\repos\gettersetter\gettersetter\bin\Debug\netcoreapp3.1\gettersetter.dll
+C:\Users\Murad\source\repos\gettersetter\gettersetter\bin\Debug\netcoreapp3.1\gettersetter.pdb
+C:\Users\Murad\source\repos\gettersetter\gettersetter\obj\Debug\netcoreapp3.1\gettersetter.csproj.AssemblyReference.cache
+C:\Users\Murad\source\repos\gettersetter\gettersetter\obj\Debug\netcoreapp3.1\gettersetter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murad\source\repos\gettersetter\gettersetter\obj\Debug\netcoreapp3.1\gettersetter.AssemblyInfoInputs.cache
+C:\Users\Murad\source\repos\gettersetter\gettersetter\obj\Debug\netcoreapp3.1\gettersetter.AssemblyInfo.cs
+C:\Users\Murad\source\repos\gettersetter\gettersetter\obj\Debug\netcoreapp3.1\gettersetter.csproj.CoreCompileInputs.cache
+C:\Users\Murad\source\repos\gettersetter\gettersetter\obj\Debug\netcoreapp3.1\gettersetter.dll
+C:\Users\Murad\source\repos\gettersetter\gettersetter\obj\Debug\netcoreapp3.1\gettersetter.pdb
+C:\Users\Murad\source\repos\gettersetter\gettersetter\obj\Debug\netcoreapp3.1\gettersetter.genruntimeconfig.cache

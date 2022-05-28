@@ -1,0 +1,14 @@
+C:\Users\Murad\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\netcoreapp3.1\ConsoleApp13.exe
+C:\Users\Murad\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\netcoreapp3.1\ConsoleApp13.deps.json
+C:\Users\Murad\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\netcoreapp3.1\ConsoleApp13.runtimeconfig.json
+C:\Users\Murad\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\netcoreapp3.1\ConsoleApp13.runtimeconfig.dev.json
+C:\Users\Murad\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\netcoreapp3.1\ConsoleApp13.dll
+C:\Users\Murad\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\netcoreapp3.1\ConsoleApp13.pdb
+C:\Users\Murad\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\netcoreapp3.1\ConsoleApp13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murad\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\netcoreapp3.1\ConsoleApp13.AssemblyInfoInputs.cache
+C:\Users\Murad\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\netcoreapp3.1\ConsoleApp13.AssemblyInfo.cs
+C:\Users\Murad\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\netcoreapp3.1\ConsoleApp13.csproj.CoreCompileInputs.cache
+C:\Users\Murad\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\netcoreapp3.1\ConsoleApp13.dll
+C:\Users\Murad\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\netcoreapp3.1\ConsoleApp13.pdb
+C:\Users\Murad\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\netcoreapp3.1\ConsoleApp13.genruntimeconfig.cache
+C:\Users\Murad\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\netcoreapp3.1\ConsoleApp13.csproj.AssemblyReference.cache

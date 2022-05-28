@@ -1,0 +1,14 @@
+C:\Users\Murad\source\repos\inheriatance\inheriatance\bin\Debug\netcoreapp3.1\inheriatance.exe
+C:\Users\Murad\source\repos\inheriatance\inheriatance\bin\Debug\netcoreapp3.1\inheriatance.deps.json
+C:\Users\Murad\source\repos\inheriatance\inheriatance\bin\Debug\netcoreapp3.1\inheriatance.runtimeconfig.json
+C:\Users\Murad\source\repos\inheriatance\inheriatance\bin\Debug\netcoreapp3.1\inheriatance.runtimeconfig.dev.json
+C:\Users\Murad\source\repos\inheriatance\inheriatance\bin\Debug\netcoreapp3.1\inheriatance.dll
+C:\Users\Murad\source\repos\inheriatance\inheriatance\bin\Debug\netcoreapp3.1\inheriatance.pdb
+C:\Users\Murad\source\repos\inheriatance\inheriatance\obj\Debug\netcoreapp3.1\inheriatance.csproj.AssemblyReference.cache
+C:\Users\Murad\source\repos\inheriatance\inheriatance\obj\Debug\netcoreapp3.1\inheriatance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murad\source\repos\inheriatance\inheriatance\obj\Debug\netcoreapp3.1\inheriatance.AssemblyInfoInputs.cache
+C:\Users\Murad\source\repos\inheriatance\inheriatance\obj\Debug\netcoreapp3.1\inheriatance.AssemblyInfo.cs
+C:\Users\Murad\source\repos\inheriatance\inheriatance\obj\Debug\netcoreapp3.1\inheriatance.csproj.CoreCompileInputs.cache
+C:\Users\Murad\source\repos\inheriatance\inheriatance\obj\Debug\netcoreapp3.1\inheriatance.dll
+C:\Users\Murad\source\repos\inheriatance\inheriatance\obj\Debug\netcoreapp3.1\inheriatance.pdb
+C:\Users\Murad\source\repos\inheriatance\inheriatance\obj\Debug\netcoreapp3.1\inheriatance.genruntimeconfig.cache

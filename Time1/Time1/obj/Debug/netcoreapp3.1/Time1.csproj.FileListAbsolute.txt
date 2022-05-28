@@ -1,0 +1,14 @@
+C:\Users\Murad\source\repos\Time1\Time1\obj\Debug\netcoreapp3.1\Time1.csproj.AssemblyReference.cache
+C:\Users\Murad\source\repos\Time1\Time1\obj\Debug\netcoreapp3.1\Time1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murad\source\repos\Time1\Time1\obj\Debug\netcoreapp3.1\Time1.AssemblyInfoInputs.cache
+C:\Users\Murad\source\repos\Time1\Time1\obj\Debug\netcoreapp3.1\Time1.AssemblyInfo.cs
+C:\Users\Murad\source\repos\Time1\Time1\obj\Debug\netcoreapp3.1\Time1.csproj.CoreCompileInputs.cache
+C:\Users\Murad\source\repos\Time1\Time1\bin\Debug\netcoreapp3.1\Time1.exe
+C:\Users\Murad\source\repos\Time1\Time1\bin\Debug\netcoreapp3.1\Time1.deps.json
+C:\Users\Murad\source\repos\Time1\Time1\bin\Debug\netcoreapp3.1\Time1.runtimeconfig.json
+C:\Users\Murad\source\repos\Time1\Time1\bin\Debug\netcoreapp3.1\Time1.runtimeconfig.dev.json
+C:\Users\Murad\source\repos\Time1\Time1\bin\Debug\netcoreapp3.1\Time1.dll
+C:\Users\Murad\source\repos\Time1\Time1\bin\Debug\netcoreapp3.1\Time1.pdb
+C:\Users\Murad\source\repos\Time1\Time1\obj\Debug\netcoreapp3.1\Time1.dll
+C:\Users\Murad\source\repos\Time1\Time1\obj\Debug\netcoreapp3.1\Time1.pdb
+C:\Users\Murad\source\repos\Time1\Time1\obj\Debug\netcoreapp3.1\Time1.genruntimeconfig.cache

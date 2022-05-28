@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nHEZmw/V8+34E2o7nW2CR1MZGfssxwWBLDJl5PlqLMamSdu6yQjKjkvZsj9AkThSzhdaRg22H/XZDactb8jKAA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Murad\\source\\repos\\inheriatance\\inheriatance\\inheriatance.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Murad\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}
